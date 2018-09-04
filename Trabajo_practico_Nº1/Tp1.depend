@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1536080862 source:/home/gabriel/Documentos/Cursada Prog-lab/Tp1/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	"utn.h"
+
+1536084253 source:/home/gabriel/Documentos/Cursada Prog-lab/Tp1/utn.c
+	<stdio_ext.h>
+	<stdlib.h>
+
+1536080862 /home/gabriel/Documentos/Cursada Prog-lab/Tp1/utn.h
+
